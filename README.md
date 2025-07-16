@@ -88,8 +88,7 @@ If you're looking for someone who understands enterprise-level complexity but al
 
 ## 🎓 Education
 
-- **M.Sc. in IT Engineering** – MehrAlborz University (GPA 19.01/20.00)  
-- **B.A. in English Translation** – Payame Noor University  
+- **M.Sc. in IT Engineering**  
 - **ACCP Diploma in Computer Science** – Aptech Computer Education
 
 ---
