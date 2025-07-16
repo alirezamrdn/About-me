@@ -1,8 +1,7 @@
 # Alireza Mardani – Senior Java Engineer & Software Architect
 
 **📍 Hamburg, Germany**  
-**📞 +49 15225164009**  
-**📧 alireza.mardani@web.de**  
+**📧 alireza.mardaniATgmail.com**  
 
 ---
 
